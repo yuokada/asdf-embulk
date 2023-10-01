@@ -4,3 +4,6 @@ updates:
     directory: "/"
     schedule:
       interval: "monthly"
+      day: "saturday"
+      time: "07:00"
+      timezone: "Asia/Tokyo"    
